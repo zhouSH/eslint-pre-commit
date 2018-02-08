@@ -1,6 +1,6 @@
 {
   "name": "eslint-pre-commit",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "copy from 3rdeden ,and do some thing  with my feature; for eslint only",
   "main": "index.js",
   "repository": {
