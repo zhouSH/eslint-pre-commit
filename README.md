@@ -1,6 +1,6 @@
 # eslint-pre-commit
 
-
+#### copy from 3rdeden
 ```js
 {
   "scripts": {
