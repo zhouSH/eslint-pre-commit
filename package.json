@@ -6,7 +6,7 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/zhouSH/eslint-pre-commit.git"
-  }
+  },
   "scripts": {
     "coverage": "istanbul cover ./node_modules/.bin/_mocha -- test.js",
     "example-fail": "echo \"This is the example hook, I exit with 1\" && exit 1",
